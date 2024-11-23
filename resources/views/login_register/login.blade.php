@@ -48,7 +48,7 @@
            <div class="media-options">
              <a href="auth/redirect" class="field google">
                <img src="images/google.png" alt="" class="google-img">
-               <span>Login with Google</span>
+               <span>Login with Google halo wak</span>
              </a>
            </div> --}}
          </div>
